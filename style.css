@@ -1,0 +1,13 @@
+#COUNTER{
+    text-align: center;
+    background-color: goldenrod;
+    border-radius: 6px;
+}
+#counter{
+text-align: center;
+}
+.container{
+    position: absolute;
+    left: 45%;
+    top: 30%;
+}
